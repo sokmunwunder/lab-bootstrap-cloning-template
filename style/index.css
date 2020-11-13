@@ -30,3 +30,25 @@ body{
 .card-text-change{
     font-size: 12px; 
 }
+
+.text-change-one{
+    font-size: 1.2rem; 
+    padding-top: 60px;
+}
+
+.text-change-two{
+    font-size: 0.8rem;
+    padding-top: 60px;
+}
+
+.h-change{
+    font-size: 0.8rem;
+    left: 20px;
+}
+
+.list{
+    list-style-type: none;
+    font-size: 0.7rem;
+    text-align: left;
+  
+   
