@@ -56,4 +56,23 @@ body{
     font-size: 0.7rem;
 }
 
-   
+.text-change-three{
+    font-size: 1.3rem;
+    padding-left: 50px;
+}
+
+.text-change-four{
+    font-size: 0.8rem;
+}
+
+.text-change-five{
+    font-size: 0.7rem; 
+}
+
+.background-color{
+    background-color: black !important;
+}
+
+.text-change-six{
+    font-size:0.65rem;
+}
