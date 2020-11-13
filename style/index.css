@@ -76,3 +76,22 @@ body{
 .text-change-six{
     font-size:0.65rem;
 }
+
+.pic-size{
+    width: 150px !important;
+    padding: 75px !important;
+    margin: 0px !important;
+}
+.pic-size-one{
+    width: 150px !important;
+    padding: 25px 75px !important;
+    margin: 0 0 100px 0 !important;
+
+}
+
+.pic-size-two{
+    width: 120px !important;
+    padding: 75px 75px !important;
+    margin: 0px !important;
+}
+
