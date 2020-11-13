@@ -97,3 +97,7 @@ body{
 .list-one{
     font-size: 0.6rem !important;
 }
+
+.list-two{
+    margin: 0 !important;
+}
