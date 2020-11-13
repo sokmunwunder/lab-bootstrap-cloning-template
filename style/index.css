@@ -86,7 +86,6 @@ body{
     width: 150px !important;
     padding: 25px 75px !important;
     margin: 0 0 100px 0 !important;
-
 }
 
 .pic-size-two{
@@ -95,3 +94,6 @@ body{
     margin: 0px !important;
 }
 
+.list-one{
+    font-size: 0.6rem !important;
+}
