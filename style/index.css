@@ -11,13 +11,14 @@ body{
     font-size: 10px;
 }
 
-.text-size-one{
-    font-size: 15px; 
-    border: 100px 0;
+.text-one{
+    font-size:2rem; 
+   
 }
 
-.text-size-two{
-    font-size: 8px;
+.text-two{
+    font-size: 0.9rem;
+    padding-top: 40px;
 }
 
 .title-one{
