@@ -19,8 +19,14 @@ body{
 .text-two{
     font-size: 0.9rem;
     padding-top: 40px;
+    font-style: bold;
 }
 
-.title-one{
+.title-change{
     font-size: 12px;
+    padding-top: 10px;    
+}
+
+.card-text-change{
+    font-size: 12px; 
 }
